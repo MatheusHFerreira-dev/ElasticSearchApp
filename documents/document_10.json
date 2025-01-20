@@ -1,0 +1,19 @@
+{
+    "product": "Wireless Headphones",
+    "description": "High-quality wireless headphones with noise cancellation and 30-hour battery life.",
+    "price": 199.99,
+    "in_stock": true,
+    "reviews": [
+        {
+            "user": "Alice",
+            "rating": 5,
+            "comment": "Excellent sound quality!"
+        },
+        {
+            "user": "Bob",
+            "rating": 4,
+            "comment": "Good, but a bit pricey."
+        }
+    ],
+    "id": 10
+}

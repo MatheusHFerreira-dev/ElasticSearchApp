@@ -1,0 +1,12 @@
+{
+    "name": "Jane Doe",
+    "age": 29,
+    "occupation": "Data Scientist",
+    "hobbies": [
+        "reading",
+        "traveling",
+        "coding"
+    ],
+    "bio": "Jane has been working in data science for over 7 years, specializing in machine learning and artificial intelligence.",
+    "id": 2
+}
